@@ -6,6 +6,11 @@ A to-do list app is a popular application used to organize and manage daily task
 
 The app will have a clean and minimalistic interface with a list of tasks displayed on the screen. The user can add new tasks, mark completed tasks as done and on long press it will get removed.
 
+![image](https://user-images.githubusercontent.com/91030529/231208514-7196d3c5-f90d-4130-9a8a-9381cb8977ed.png) 
+
+
+
+
 
 
 
